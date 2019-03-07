@@ -1,0 +1,22 @@
+{
+  "name": "inv-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Throwback74/inv-tech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Throwback74/inv-tech/issues"
+  },
+  "homepage": "https://github.com/Throwback74/inv-tech#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
